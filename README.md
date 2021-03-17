@@ -1,3 +1,3 @@
 ### A game similar to flappy bird
 
-link: 
+[click here to play the game](https://seanbenk.github.io/flappyduck/)
